@@ -1,6 +1,6 @@
 FROM java:8-jre-alpine
 
-ARG VERSION=0.13.9
+ARG VERSION=0.13.10
 
 EXPOSE 9324
 
